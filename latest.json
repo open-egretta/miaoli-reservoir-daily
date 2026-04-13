@@ -1,20 +1,20 @@
 [
   {
     "reservoiridentifier": "10501",
-    "effectivewaterstoragecapacity": 1590.06,
-    "waterlevel": 75.48,
-    "observationtime": "2026-04-13 10:00"
+    "effectivewaterstoragecapacity": 1610.47,
+    "waterlevel": 75.65,
+    "observationtime": "2026-04-13 22:00"
   },
   {
     "reservoiridentifier": "10601",
-    "effectivewaterstoragecapacity": 1131.83,
-    "waterlevel": 60.15,
-    "observationtime": "2026-04-13 10:00"
+    "effectivewaterstoragecapacity": 1134.76,
+    "waterlevel": 60.17,
+    "observationtime": "2026-04-13 22:00"
   },
   {
     "reservoiridentifier": "20101",
-    "effectivewaterstoragecapacity": 5141.79,
-    "waterlevel": 281.58,
-    "observationtime": "2026-04-13 10:00"
+    "effectivewaterstoragecapacity": 5194.7,
+    "waterlevel": 281.78,
+    "observationtime": "2026-04-13 22:00"
   }
 ]
