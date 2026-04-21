@@ -2,22 +2,22 @@
   {
     "reservoiridentifier": "10501",
     "reservoirname": "永和山水庫",
-    "effectivewaterstoragecapacity": 1717.19,
-    "waterlevel": 76.52,
-    "observationtime": "2026-04-21 07:00"
+    "effectivewaterstoragecapacity": 1719.68,
+    "waterlevel": 76.54,
+    "observationtime": "2026-04-21 11:00"
   },
   {
     "reservoiridentifier": "10601",
     "reservoirname": "明德水庫",
-    "effectivewaterstoragecapacity": 1072.26,
-    "waterlevel": 59.74,
-    "observationtime": "2026-04-20 09:00"
+    "effectivewaterstoragecapacity": 1062.21,
+    "waterlevel": 59.67,
+    "observationtime": "2026-04-21 11:00"
   },
   {
     "reservoiridentifier": "20101",
     "reservoirname": "鯉魚潭水庫",
-    "effectivewaterstoragecapacity": 5323.96,
-    "waterlevel": 282.26,
-    "observationtime": "2026-04-21 07:00"
+    "effectivewaterstoragecapacity": 5310.29,
+    "waterlevel": 282.21,
+    "observationtime": "2026-04-21 11:00"
   }
 ]
